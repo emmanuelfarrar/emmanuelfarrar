@@ -43,11 +43,18 @@ First of all, allow me to say hello there and welcome to my GitHub page. My name
   </a>
 </p>
 
+---
+
+### Github stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelfarrar&show_icons=true&theme=tokyonight" />
 
 
 <!-- URLS used to make this
 https://shields.io/
 https://simpleicons.org/
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 <!--
 **emmanuelfarrar/emmanuelfarrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
