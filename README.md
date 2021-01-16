@@ -1,9 +1,11 @@
-<center><img src="/logo.png" alt="banner" width="300" height="250" style="vertical-align:top" /></center>
-
+<p>
+<center><img src="/6923873.jpg" alt="My Picture" width="200px" height="200px" style="vertical-align:top" /></center>
+<!--<center><img src="/logo.png" alt="banner" width="300" height="1500px"" style="vertical-align:top" /></center> -->
+</p>
 
 ### About me👋
 
-First of all, allow me to say hello there and welcome to my GitHub page. My name is Emmanuel Farrar and I am mobile application developer. This profile currently will be used as I continue learning about mobile app development and potentially some side projects once I am ready to take on such ventures. 
+First of all, allow me to say hello there and welcome to my GitHub page. My name is Emmanuel Farrar and I am mobile application developer. This profile will be used as I continue learning about mobile app development and potentially some side projects once I am ready to take on such ventures. With that said expect to see a lot of tutorials and pieces of projects as I hone my skills. At a later date I will transition this to a repo of completed projects.
 
 ---
 
@@ -23,6 +25,7 @@ First of all, allow me to say hello there and welcome to my GitHub page. My name
 - I am currently working on honing my knowledge in skills focusing on mobile application development and design.
 - I work as a network engineer and specialize in network security.
 - I am the founder and owner of EchoFox Technologies.
+- I am aiming to start accepting freelance projects in the year 2021.
 - There will be many changes to this profile as the year advances, but I just wanted to get something down here to enhance and document the journey I am on
 
 ---
