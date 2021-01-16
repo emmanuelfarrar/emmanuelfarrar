@@ -51,6 +51,7 @@ First of all, allow me to say hello there and welcome to my GitHub page. My name
 
 
 <!-- URLS used to make this
+https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8
 https://shields.io/
 https://simpleicons.org/
 https://github.com/anuraghazra/github-readme-stats
