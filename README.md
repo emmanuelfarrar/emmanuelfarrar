@@ -48,7 +48,7 @@ First of all, allow me to say hello there and welcome to my GitHub page. My name
 ### Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelfarrar&show_icons=true&theme=tokyonight" />
-
+<a href="https://app.daily.dev/rowenarrow"><img src="https://api.daily.dev/devcards/a6415211c6ad4ca98b257950c593345b.png?r=fmn" width="400" alt="Emmanuel Farrar's Dev Card"/></a>
 
 <!-- URLS used to make this
 https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8
